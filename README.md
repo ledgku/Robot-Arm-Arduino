@@ -1,5 +1,5 @@
 # Robot-Arm-Arduino
-> Arduino Uno(1ea), Servo moter(5ea)
+> Arduino Uno(1ea), Servo moter(5ea), Ultrasonic sensor(1ea)
 
 # Moving an object example video
 [![Moving an object example video](http://img.youtube.com/vi/imUxud6Of1E/0.jpg)](http://www.youtube.com/watch?v=imUxud6Of1E)
