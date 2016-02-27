@@ -1,12 +1,11 @@
 # Robot-Arm-Arduino
 > Arduino Uno(1ea), Servo moter(5ea)
 
-&nbsp;
 # Moving an object example video
 [![Moving an object example video](http://img.youtube.com/vi/imUxud6Of1E/0.jpg)](http://www.youtube.com/watch?v=imUxud6Of1E)
 
 # Members
-## Robotcode.kr
+> Robotcode.kr
 * 고재환
 * 구원회
 * 김지민
